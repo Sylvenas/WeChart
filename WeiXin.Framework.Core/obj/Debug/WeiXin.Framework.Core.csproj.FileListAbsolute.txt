@@ -1,0 +1,20 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXin.Framework.Core.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXin.Framework.Core.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb
+F:\Download\Firefox\ef5a76545ba509b1be19c9337362ff44\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.dll
+F:\Download\Firefox\ef5a76545ba509b1be19c9337362ff44\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.pdb
+F:\Download\Firefox\ef5a76545ba509b1be19c9337362ff44\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+F:\Download\Firefox\ef5a76545ba509b1be19c9337362ff44\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb
+F:\Download\Firefox\ef5a76545ba509b1be19c9337362ff44\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.pdb
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache

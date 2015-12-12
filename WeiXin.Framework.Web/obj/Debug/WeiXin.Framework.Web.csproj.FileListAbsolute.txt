@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll.config
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.pdb
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.pdb
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.dll
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\obj\Debug\WeiXin.Framework.Web.pdb
+C:\Users\Administrator\Desktop\WeiXin.Framework\WeiXin.Framework.Web\bin\Newtonsoft.Json.Net35.dll

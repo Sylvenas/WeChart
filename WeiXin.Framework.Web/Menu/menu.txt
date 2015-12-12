@@ -1,0 +1,49 @@
+{
+    "button": [
+        {
+            "name": "选项", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "1", 
+                    "key": "btn1"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "2", 
+                    "key": "btn2"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "3", 
+                    "key": "btn3"
+                },
+				{
+                    "type": "click", 
+                    "name": "4", 
+                    "key": "btn4"
+                }
+            ]
+        }, 
+        {
+            "name": "操作", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "5", 
+                    "key": "btn5"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "退出", 
+                    "key": "btnTuiChu"
+                }
+            ]
+        }, 
+        {
+            "type": "view", 
+           "name": "民防新闻", 
+            "url": "http://cn.bing.com/"
+        }
+    ]
+}
